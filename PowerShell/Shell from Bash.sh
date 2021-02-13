@@ -1,12 +1,16 @@
 git status
 
+#clone the github relevant file
 git clone https://github.com/saritmaitra/PythonWebApp-DevOps.git
 
-git add -a
-
+#checking status of git repo 
 git status
 
-git commit -m "Commit-1"
+git add -A #pushing changes to staging
+
+git status #checking staging status
+
+git commit -m "Commit-1" #commit changes to main branch
 
 git status
 
