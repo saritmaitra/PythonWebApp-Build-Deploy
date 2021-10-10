@@ -1,5 +1,5 @@
 astroid==2.6.2
-click==8.0.1
+click==8.0.2
 colorama==0.4.4
 Flask==2.0.2
 isort==5.9.3
